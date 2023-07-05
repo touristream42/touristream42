@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @touristream42
-- 👀 I’m interested in competive programming and mathematics 
+- 👀 I’m interested in competitive programming and mathematics 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
